@@ -5,6 +5,8 @@ We have adopted the Australian Privacy Principles (APPs) contained in the Privac
 
 A copy of the Australian Privacy Principles may be obtained from the website of The Office of the Australian Information Commissioner at www.aoic.gov.au
 
+Because our services are supported by Telegram Bot Technology, your privacy infomation would be managed by its [privacy policy](https://telegram.org/privacy) as well.
+
 ## What is Personal Information and why do we collect it?
 Personal Information is information or an opinion that identifies an individual. Examples of Personal Information we collect include: names, addresses, email addresses, phone and facsimile numbers.
 
