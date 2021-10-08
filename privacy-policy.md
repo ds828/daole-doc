@@ -46,7 +46,7 @@ It is an important to us that your Personal Information is up to date. We  will 
 ## Policy Updates
 This Policy may change from time to time and is available on our website.
 
-##Privacy Policy Complaints and Enquiries
+## Privacy Policy Complaints and Enquiries
 If you have any queries or complaints about our Privacy Policy please contact us at:
 
 * https://t.me/daolesupport
