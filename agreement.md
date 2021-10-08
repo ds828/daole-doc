@@ -6,8 +6,6 @@ This EULA agreement governs your acquisition and use of our Platform, Products a
 
 Please read this EULA agreement carefully before completing the installation process and using Platform, Products and Services on the daole.me. It provides a license to use the daole.me Platform, Products and Services and contains warranty information and liability disclaimers.
 
-If you register for a free trial of the daole.me software, this EULA agreement will also govern that trial. By clicking "accept" or installing and/or using the daole.me software, you are confirming your acceptance of the Software and agreeing to become bound by the terms of this EULA agreement.
-
 If you are entering into this EULA agreement on behalf of a company or other legal entity, you represent that you have the authority to bind such entity and its affiliates to these terms and conditions. If you do not have such authority or if you do not agree with the terms and conditions of this EULA agreement, do not install or use Platform, Products and Services, and you must not accept this EULA agreement.
 
 This EULA agreement shall apply only to Platform, Products and Services supplied by daole.me herewith regardless of whether other software is referred to or described herein. The terms also apply to any daole.me updates, supplements, Internet-based services, and support services for the Software, unless other terms accompany those items on delivery. If so, those terms apply.
@@ -17,6 +15,7 @@ This EULA agreement shall apply only to Platform, Products and Services supplied
 1.1 In order to use Platform, Products and Services, You may be required to register for an Account through the Platform.
 
 1.2 As part of the registration process, or as part of Your continued use of the Platform, You may be required to provide personal information about Yourself (such as identification or contact details) from your telegram account, including:
+  * telegram user id
   * telegram username
   * first name
   * telephone number
