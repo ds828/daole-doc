@@ -27,4 +27,4 @@
 1. Share your live location to @daolebot for **8 hours**
 2. Select(load) shippings and go
 
-### That's it
+### That's it. [back to site](https://daole.me)
