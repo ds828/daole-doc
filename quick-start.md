@@ -25,6 +25,6 @@
 
 ## 5. Deliver shippings<a id="deliver"></a>
 1. Share your live location to @daolebot for **8 hours**
-2. Select(load) shippings and go
+2. Select shippings and go [read more](https://github.com/ds828/daole-doc/blob/main/faq.md#deliver-shippings)
 
 ### That's it. [back to site](https://daole.me)
