@@ -39,7 +39,7 @@ do **Add one courier** again
 3. **🚀🚀 optimize** to optimize a route **[Optional]**
 4. **🔢 Easy Sort** to sort shippings **[Optional]**
 5. **🚀 Go** and select one shipping
-6. **Start**
+6. **🚀 Start** to ship
 7. @daolebot sends the location of the destination
 8. After delivery, **Shipped** to finish.
 9. **➡️ Next** to go with next one
