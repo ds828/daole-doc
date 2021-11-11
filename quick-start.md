@@ -12,8 +12,8 @@
 
 ## 2. Prepare your information<a id="prepare"></a>
 1. Go to **"Settings"** => **"Edit profile"** in Telegram App
-2. Edit **BIO** or **First name** as a shop name
-3. Edit **Last name** as your courier description that is used in short messages for delivery notification **[Optional]**
+2. Edit **bio** or **first name** as a shop name
+3. Edit **last name** as your courier description that is used in short messages for delivery notification **[Optional]**
 
 ## 3. Create a shop<a id="create"></a>
 1. Run **/shop**
