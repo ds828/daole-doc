@@ -36,7 +36,7 @@ do **Add one courier** again
 ## 7. Deliver shippings<a id="deliver-shippings"></a>
 1. Share a live location to @daolebot
 2. Select shippings
-3. **🚀🚀 optimize** to optimize routes **[Optional]**
+3. **🚀🚀 optimize** to optimize a route **[Optional]**
 4. **🔢 Easy Sort** to sort shippings **[Optional]**
 5. **🚀 Go** and select one shipping
 6. **Start**
