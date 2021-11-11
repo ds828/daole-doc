@@ -36,10 +36,13 @@ do **Add one courier** again
 ## 7. Deliver shippings<a id="deliver-shippings"></a>
 1. Share a live location to @daolebot
 2. Select shippings
-3. Click **🚀🚀Optimize** to optimize routes **[Optional]**
-4. Click **🔢 Easy Sort** to sort shippings **[Optional]**
-5. Click **🚀 Go** and select one shipping
-6. Click **Start**
+3. **🚀🚀 optimize** to optimize routes **[Optional]**
+4. **🔢 Easy Sort** to sort shippings **[Optional]**
+5. **🚀 Go** and select one shipping
+6. **Start**
+7. @daolebot sends the location of the destination
+8. After delivery, **Shipped** to finish.
+9. **➡️ Next** to go with next one
 
 ## 8. What is a today-offset from today?<a id="today-offset"></a>
 A *today-offset* is a integer number that is of days count from today
