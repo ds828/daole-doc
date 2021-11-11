@@ -4,6 +4,7 @@
 3. [Create a shop](#create)
 4. [Add a shipping](#add-shipping)
 5. [Deliver shippings](#deliver)
+6. [FAQs](https://github.com/ds828/daole-doc/blob/main/faq.md)
 
 ## 1. Install<a id="install"></a>
 1. Install [Telegram App](http://telegram.org "Telegram App")
