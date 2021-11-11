@@ -27,7 +27,7 @@ do **Add one courier** again
 
 ## 5. Show one courier<a id="show-courier"></a>
 1. Share one courier's contact to @daolebot
-2. Run **/shop** => **👥Staffs**,  select one courier
+2. OR Run **/shop** => **👥Staffs**,  select one courier
 
 ## 6. Add/Update one courier's vehicle photo<a id="add-vehicle-photo"></a>
 1. Show one courier
