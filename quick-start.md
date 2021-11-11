@@ -22,7 +22,7 @@
 
 ## 4. Add one shipping<a id="add-shipping"></a>
 1. Input a customer's mobile phone in @daolebot
-2. And input a address
+2. Input a address or share a location
 
 ## 5. Deliver shippings<a id="deliver"></a>
 1. Share your live location to @daolebot for **8 hours**
