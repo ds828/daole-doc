@@ -47,14 +47,17 @@ A day-offset is a integer number that is of days from today
 
 ## 9. Query shippings<a id="query"></a>
 
+/query or /q
+
 ```python
 # search shippings of today
 /query
 
-# serach shippings of a date from day-offset
-/query day-offset
+# serach shippings of a date from today-offset
+/query today-offset
 /query 1 # tomorrow
 /query -2 # the day before yesterday
+/query 0 # today 
 
 # search shippings of a date
 /query date-string
@@ -65,7 +68,7 @@ A day-offset is a integer number that is of days from today
 /query 0400123456
 
 # search shippings with a customer phone and a date
-/query phone date-string|day-offset
-/query date-string|day-offset phone
+/query phone date-string|today-offset
+/query date-string|today-offset phone
 
 ```
