@@ -6,7 +6,7 @@
 5. [Show one courier](#show-courier)
 6. [Add/Update one courier's vehicle photo](#add-vehicle-photo)
 7. [Deliver shippings](#deliver-shippings)
-8. [What is a day-offset from today?](#day-offset)
+8. [What is a today-offset from today?](#today-offset)
 9. [Query shippings](#query)
 
 ## 1. Update my shop name or my (the boss) courier description<a id="update-shop"></a>
@@ -41,13 +41,13 @@ do **Add one courier** again
 5. Click **🚀 Go** and select one shipping
 6. Click **Start**
 
-## 8. What is a day-offset from today?<a id="day-offset"></a>
-A day-offset is a integer number that is of days from today
+## 8. What is a today-offset from today?<a id="today-offset"></a>
+A *today-offset* is a integer number that is of days count from today
 `1 is tomorrow 0 is today, -1 is yesterday`
 
 ## 9. Query shippings<a id="query"></a>
 
-/query or /q
+**/query** or **/q**
 
 ```python
 # search shippings of today
