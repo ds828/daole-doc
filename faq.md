@@ -55,7 +55,7 @@ do **Add one courier** again
 /query n
 /query 1 # tomorrow
 /query -2 # the day before yesterday
-/query 7 # 7 days ago
+/query 7 # 7 days later
 
 # search shippings of a date
 /query date-string
