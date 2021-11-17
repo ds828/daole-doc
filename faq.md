@@ -66,7 +66,7 @@ do **Add one courier** again
 /query 0400123456
 
 # search shippings with a customer phone and a date
-/query phone date-string|today-offset
-/query date-string|today-offset phone
+/query phone date-string|day-amount
+/query date-string|day-amount phone
 
 ```
