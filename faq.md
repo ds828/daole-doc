@@ -6,8 +6,7 @@
 5. [Show one courier](#show-courier)
 6. [Add/Update one courier's vehicle photo](#add-vehicle-photo)
 7. [Deliver shippings](#deliver-shippings)
-8. [What is a today-offset from today?](#today-offset)
-9. [Query shippings](#query)
+8. [Query shippings](#query)
 
 ## 1. Update my shop name or my (the boss) courier description<a id="update-shop"></a>
 1. Edit  **BIO** or **First name** as new shop name
@@ -44,11 +43,7 @@ do **Add one courier** again
 8. After delivery, **Shipped** to finish.
 9. **➡️ Next** to go with next one
 
-## 8. What is a today-offset from today?<a id="today-offset"></a>
-A *today-offset* is a integer number that is of days count from today
-`1 is tomorrow 0 is today, -1 is yesterday`
-
-## 9. Query shippings<a id="query"></a>
+## 8. Query shippings<a id="query"></a>
 
 **/query** or **/q**
 
@@ -56,7 +51,7 @@ A *today-offset* is a integer number that is of days count from today
 # search shippings of today
 /query
 
-# serach shippings of a date from today-offset
+# serach shippings on a date with a day amount from today
 /query today-offset
 /query 1 # tomorrow
 /query -2 # the day before yesterday
