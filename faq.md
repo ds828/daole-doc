@@ -52,7 +52,7 @@ do **Add one courier** again
 /query
 
 # serach shippings on a date with a day amount from today
-/query today-offset
+/query n
 /query 1 # tomorrow
 /query -2 # the day before yesterday
 /query 0 # today 
