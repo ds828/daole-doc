@@ -8,10 +8,11 @@
 7. [Deliver shippings](#deliver-shippings)
 8. [Query shippings](#query)
 
-## 1. Update my shop name or my (the boss) courier description<a id="update-shop"></a>
+## 1. Update my shop name, the boss's avatar and description<a id="update-shop"></a>
 1. Edit  **BIO** or **First name** as new shop name
-2. Edit  **Last name** as new courier description **[Optional]**
-3. Run **/shop** and updated
+2. Edit the avatar photo
+3. Edit  **Last name** as new courier description **[Optional]**
+4. Run **/shop u** and updated
 
 ## 2. Add/Update a voice for voice calls<a id="add-voice"></a>
 1. Send a voice to @daolebot
