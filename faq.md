@@ -12,7 +12,7 @@
 1. Edit  **BIO** or **First name** as new shop name
 2. Edit the avatar photo
 3. Edit  **Last name** as new courier description **[Optional]**
-4. Run **/shop u** and updated
+4. Run **/shop a** and updated
 
 ## 2. Add/Update a voice for voice calls<a id="add-voice"></a>
 1. Send a voice to @daolebot
