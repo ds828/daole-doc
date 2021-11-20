@@ -52,7 +52,7 @@ do **Add one courier** again
 # search shippings of today
 /query
 
-# serach shippings on a date with a day amount from today
+# serach shippings on a today offset
 /query n
 /query 1 # tomorrow
 /query -2 # the day before yesterday
@@ -67,7 +67,7 @@ do **Add one courier** again
 /query 0400123456
 
 # search shippings with a customer phone and a date
-/query phone date-string|day-amount
-/query date-string|day-amount phone
+/query phone date-string|today-offset
+/query date-string|today-offset phone
 
 ```
