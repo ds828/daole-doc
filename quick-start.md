@@ -9,7 +9,7 @@
 
 ## 1. Install<a id="install"></a>
 1. Install [Telegram App](http://telegram.org "Telegram App")
-2. Start [@daolebot](http://t.me/daoleme "@daolebot")
+2. Start [@daolebot](http://t.me/daolebot "@daolebot")
 
 ## 2. Prepare your information<a id="prepare"></a>
 1. Go to **"Settings"** => **"Edit profile"** in Telegram App
