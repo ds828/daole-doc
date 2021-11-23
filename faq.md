@@ -48,7 +48,7 @@ do **Add one courier** again
 **/query** or **/q**
 
 ```python
-# search shippings of today
+# search shippings on today
 /query
 
 # serach shippings on a today offset
@@ -57,8 +57,8 @@ do **Add one courier** again
 /query -2 # the day before yesterday
 /query 7 # 7 days later
 
-# search shippings of a date
-/query date-string
+# search shippings on a date
+/query dd/mm/yyyy
 /query 12/05/2021
 
 # search shippings with a customer's phone
@@ -66,7 +66,7 @@ do **Add one courier** again
 /query 0400123456
 
 # search shippings with a customer phone and a date
-/query phone date-string|today-offset
-/query date-string|today-offset phone
+/query phone dd/mm/yyyy|today-offset
+/query dd/mm/yyyy|today-offset phone
 
 ```
